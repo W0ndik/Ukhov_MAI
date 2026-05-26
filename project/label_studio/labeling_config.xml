@@ -1,0 +1,12 @@
+<View>
+  <Header value="Разметка жёлтой ржавчины пшеницы на снимках с БПЛА"/>
+
+  <Image name="image" value="$undefined" zoom="true" zoomControl="true"/>
+
+  <RectangleLabels name="label" toName="image">
+    <Label value="Yellow rust area" background="#FFC107"/>
+    <Label value="Healthy wheat / normal canopy" background="#4CAF50"/>
+    <Label value="Bare soil / ground" background="#9E9E9E"/>
+    <Label value="Unclear / shadow / blur" background="#9C27B0"/>
+  </RectangleLabels>
+</View>
