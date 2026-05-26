@@ -164,7 +164,7 @@ data/exports/project-export.json
 
 ### 5. Пример готовой разметки
 
-![Готовая разметка](screenshots/05_finished_annotation.png)
+![Готовая разметка](screenshots/05_finished_anotation.png)
 
 ## Статистика разметки
 
