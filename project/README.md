@@ -80,8 +80,6 @@ project/
 │   ├── 03_imported_images.png
 │   ├── 04_annotation_process.png
 │   ├── 05_finished_annotation.png
-│   ├── 06_tasks_list.png
-│   └── 07_export_result.png
 │
 └── ml_backend_optional/
     └── README.md
